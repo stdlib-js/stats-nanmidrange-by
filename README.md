@@ -50,7 +50,7 @@ The [**mid-range**][mid-range], or **mid-extreme**, is the arithmetic mean of th
 ## Usage
 
 ```javascript
-import nanmidrangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-nanmidrange-by@esm/index.mjs';
+import nanmidrangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-nanmidrange-by@v0.1.0-esm/index.mjs';
 ```
 
 #### nanmidrangeBy( x\[, options], clbk\[, thisArg] )
@@ -277,7 +277,7 @@ import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-d
 import getDType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ctor@esm/index.mjs';
-import nanmidrangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-nanmidrange-by@esm/index.mjs';
+import nanmidrangeBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-nanmidrange-by@v0.1.0-esm/index.mjs';
 
 // Define a function for generating an object having a random value:
 function random() {
